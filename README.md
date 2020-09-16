@@ -3,9 +3,9 @@
 <br>
 <i>
 <ul>
-  <li>🔭 I’m a Data Science Intern at Technocolabs.</li>
-  <li>💼 I’m currently persuing my third year of Bachelor's Degree in Computer Science Engineering at GMR Institute of Technology.</li>
-  <li>🤔 My intrests are with Machine Learning, Deep Learning, Computer Vision, NLP.</li>
+  <li>🔭 Data Science Intern at Technocolabs.</li>
+  <li>💼 Currently persuing my third year of Bachelor's Degree in Computer Science Engineering at GMR Institute of Technology.</li>
+  <li>🤔 Area of Intrest: Machine Learning, Deep Learning, Computer Vision, NLP.</li>
   <li>💬 Ask me about anything.</li>
   <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/venugopalkadamba">LinkedIn</a>.</li>
   <li>⚡ Fun fact: I am fitness freak.</li>
