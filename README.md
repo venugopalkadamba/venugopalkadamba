@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Venu Gopal Github Stats" src="https://github-readme-stats.vercel.app/api?username=venugopalkadamba">
+<img align="left" alt="Venu Gopal Github Stats" src="https://github-readme-stats.vercel.app/api?username=venugopalkadamba&show_icons=true&theme=tokyonight">
