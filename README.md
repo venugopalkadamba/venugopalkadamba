@@ -1,4 +1,4 @@
-### Hi there, I am Venu Gopal! 
+### Hi there, I am Venu Gopal! 👋
 <i>I am a self taught <b>Python Programmer</b>.</i>
 <br>
 <i>
