@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 #### Top Languages
 <a href="https://https://github.com/venugopalkadamba">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venugopalkadamba&theme=tokyonight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venugopalkadamba&theme=tokyonight&layout=compact">
 </a>
