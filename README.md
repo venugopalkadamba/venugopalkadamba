@@ -15,10 +15,10 @@ I am a self taught <b>Python Programmer</b>.
 
 #### Github Stats
 <a href="https://https://github.com/venugopalkadamba">
-  <img align="center" alt="Venu Gopal Github Stats" src="https://github-readme-stats.vercel.app/api?username=venugopalkadamba&show_icons=true&theme=tokyonight">
+  <img align="center" alt="Venu Gopal Github Stats" src="https://github-readme-stats.vercel.app/api?username=venugopalkadamba&show_icons=true&theme=dark">
 </a>
 
 #### Top Languages
 <a href="https://https://github.com/venugopalkadamba">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venugopalkadamba&theme=tokyonight&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venugopalkadamba&theme=dark&layout=compact">
 </a>
