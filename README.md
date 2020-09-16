@@ -8,3 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 You can reach me via [LinkedIn](https://linkedin.com/in/venugopalkadamba).
 - ⚡ Fun fact: I am fitness freak.
+
+---
+
+<img align="left" alt="Venu Gopal Github Stats" src="https://github-readme-stats.vercel.app/api?username=venugopalkadamba">
