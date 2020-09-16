@@ -12,7 +12,10 @@
 </ul>
 </i>
 
-
+#### Github Stats
+<a href="https://https://github.com/venugopalkadamba">
+  <img align="center" alt="Venu Gopal Github Stats" src="https://github-readme-stats.vercel.app/api?username=venugopalkadamba&show_icons=true&theme=tokyonight">
+</a>
 
 #### Top Languages
 <a href="https://https://github.com/venugopalkadamba">
