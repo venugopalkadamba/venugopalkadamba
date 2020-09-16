@@ -1,10 +1,9 @@
 ### Hi there, I am Venu Gopal! 👋
 <i>
-  I am a self taught Python Developer. 
-
+  I am a self taught <b>Python Programmer</b>. 
+<br>
 - 🔭 I’m a Data Science Intern at Technocolabs.
 - 💼 I’m currently persuing my third year of Bachelor's Degree in Computer Science Engineering at GMR Institute of Technology.
-- 👯 I’m looking to collaborate on Data Science.
 - 🤔 My intrests are with Machine Learning, Deep Learning, Computer Vision, NLP.
 - 💬 Ask me about anything.
 - 📫 You can reach me via [LinkedIn](https://linkedin.com/in/venugopalkadamba).
