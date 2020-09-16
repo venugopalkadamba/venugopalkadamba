@@ -1,12 +1,14 @@
 ### Hi there, I am Venu Gopal! 👋
 <i>
   I am a self taught <b>Python Programmer</b>. 
-- 🔭 I’m a Data Science Intern at Technocolabs.
-- 💼 I’m currently persuing my third year of Bachelor's Degree in Computer Science Engineering at GMR Institute of Technology.
-- 🤔 My intrests are with Machine Learning, Deep Learning, Computer Vision, NLP.
-- 💬 Ask me about anything.
-- 📫 You can reach me via [LinkedIn](https://linkedin.com/in/venugopalkadamba).
-- ⚡ Fun fact: I am fitness freak.
+<ul>
+  <li>🔭 I’m a Data Science Intern at Technocolabs.</li>
+  <li>💼 I’m currently persuing my third year of Bachelor's Degree in Computer Science Engineering at GMR Institute of Technology.</li>
+  <li>🤔 My intrests are with Machine Learning, Deep Learning, Computer Vision, NLP.</li>
+  <li>💬 Ask me about anything.</li>
+  <li>📫 You can reach me via [LinkedIn](https://linkedin.com/in/venugopalkadamba).</li>
+  <li>⚡ Fun fact: I am fitness freak.</li>
+</ul>
 </i>
 
 #### Github Stats
