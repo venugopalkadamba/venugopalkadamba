@@ -1,7 +1,6 @@
-### Hi there, I am Venu Gopal!
+### Hi there, I am Venu Gopal! ![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif =50x50)
 <i>
 I am a self taught <b>Python Programmer</b>.
-<br>
 <br>
 <ul>
   <li>🔭 I’m a Data Science Intern at Technocolabs.</li>
