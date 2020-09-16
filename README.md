@@ -1,6 +1,6 @@
-### Hi there, I am Venu Gopal! 👋
+### Hi there, I am Venu Gopal! ![alt-text](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif)
 <i>
-I am a self taught <b>Python Programmer</b>.
+I am a self taught <b>Python Programmer</b> ![alt-text](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif).
 <br>
 <br>
 <ul>
