@@ -21,6 +21,10 @@
 <img height="60" width="60" src="https://camo.githubusercontent.com/9599dc988280bea2ca5c44c4796f13494f9ff3f7/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" />&nbsp;&nbsp;&nbsp;
 <img height="60" width="60" src="https://camo.githubusercontent.com/5712bffd0347cc2744de599dc54473dc1ebbfe82/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f637373332f637373332d6f726967696e616c2d776f72646d61726b2e737667" />&nbsp;&nbsp;&nbsp;
 <img height="60" width="60" src="https://www.aldakur.net/wp-content/uploads/2017/03/docker-logo-1024x914.png" />&nbsp;&nbsp;&nbsp;
+<img height="60" width="150" src="https://keras.io/img/logo.png" />&nbsp;&nbsp;&nbsp;
+<img height="60" width="60" src="https://palanceli.com/2017/10/01/2017/1001opencvpy/img13.png" />&nbsp;&nbsp;&nbsp;
+
+
 
 
 
