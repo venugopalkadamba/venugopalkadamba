@@ -8,7 +8,7 @@ I am a self taught <b>Python Programmer</b>.
   <li>💼 I’m currently persuing my third year of Bachelor's Degree in Computer Science Engineering at GMR Institute of Technology.</li>
   <li>🤔 My intrests are with Machine Learning, Deep Learning, Computer Vision, NLP.</li>
   <li>💬 Ask me about anything.</li>
-  <li>📫 You can reach me via [LinkedIn](https://linkedin.com/in/venugopalkadamba).</li>
+  <li>📫 You can reach me via <a href="https://linkedin.com/in/venugopalkadamba">LinkedIn</a>.</li>
   <li>⚡ Fun fact: I am fitness freak.</li>
 </ul>
 </i>
