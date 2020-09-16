@@ -3,10 +3,9 @@
 <br>
 <i>
   
-<table>
-  <tr>
-    <td>
-      <ul>
+<img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
+<br>
+<ul>
         <li>🔭 Data Science Intern at Technocolabs.</li>
         <li>💼 Currently persuing my third year of Bachelor's Degree in Computer Science Engineering at GMR Institute of Technology.</li>
         <li>🤔 Area of Intrest: Machine Learning, Deep Learning, Computer Vision, NLP.</li>
@@ -14,12 +13,6 @@
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/venugopalkadamba">LinkedIn</a>.</li>
         <li>⚡ Fun fact: I am fitness freak.</li>
       </ul>
-    </td>
-    <td>
-      <img height="300" width="550" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
-    </td>
-  </tr>
-</table>
 </i>
 
 ### Tools and Languages
