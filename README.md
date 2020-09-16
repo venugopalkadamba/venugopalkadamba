@@ -1,6 +1,6 @@
 ### Hi there, I am Venu Gopal! 👋
 <i>
-  I am a self taught <b>Python Programmer</b>. 
+  I am a self taught <b>Python Programmer</b>. <br>
 <ul>
   <li>🔭 I’m a Data Science Intern at Technocolabs.</li>
   <li>💼 I’m currently persuing my third year of Bachelor's Degree in Computer Science Engineering at GMR Institute of Technology.</li>
