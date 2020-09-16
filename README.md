@@ -1,5 +1,7 @@
 ### Hi there, Here is what I am Workig On! 👋
-Here are some ideas to get you started:
+<i>
+  About Myself<br>
+  I am a self taught Python Developer. 
 
 - 🔭 I’m a Data Science Intern at Technocolabs.
 - 💼 I’m currently persuing my third year of Bachelor's Degree in Computer Science Engineering at GMR Institute of Technology.
@@ -8,6 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 You can reach me via [LinkedIn](https://linkedin.com/in/venugopalkadamba).
 - ⚡ Fun fact: I am fitness freak.
+</i>
 
 #### Github Stats
 <a href="https://https://github.com/venugopalkadamba">
