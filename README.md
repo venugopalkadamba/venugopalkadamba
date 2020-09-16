@@ -1,6 +1,5 @@
-### Hi there, Here is what I am Workig On! 👋
+### Hi there, I am Venu Gopal! 👋
 <i>
-  About Myself<br>
   I am a self taught Python Developer. 
 
 - 🔭 I’m a Data Science Intern at Technocolabs.
