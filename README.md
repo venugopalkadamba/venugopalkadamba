@@ -50,7 +50,7 @@
 <a href="https://linkedin.com/in/venugopalkadamba"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/venugopal_2001"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/KadambaVenu"><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>
-<a href="mailto:venugopalkadamba@gmail.com"><img height="32" width="32" src="https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en_US" /></a>
+<a href="mailto:venugopalkadamba@gmail.com"><img height="32" width="32" src="https://lh3.googleusercontent.com/qTG9HMCp-s_aubJGeQWkR6M_myn-aXDJnraWn9oePcY1dGbYqXibaeLQBAeMdmxSBus=s180-rw" /></a>
 </div>
 
 <div align="center">
