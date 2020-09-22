@@ -15,7 +15,7 @@
       </ul>
 </i>
 
-### Tools and Languages
+## Tools and Languages
 <img height="60" width="60" src="https://camo.githubusercontent.com/188581baa4eb9016e00bf07260f1fe6f12222b0a/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" />&nbsp;&nbsp;&nbsp;
 <img height="60" width="60" src="https://camo.githubusercontent.com/7f446cc5286f8848fca282b72a361e0696cf3096/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f646a616e676f2f646a616e676f2d6f726967696e616c2e737667" />&nbsp;&nbsp;&nbsp;
 <img height="60" width="60" src="https://github.com/simple-icons/simple-icons/blob/e050634479e2fe95312a4d011b786cb6363125ec/icons/flask.svg" />&nbsp;&nbsp;&nbsp;
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-### Github Stats
+## Github Stats
 <a href="https://github.com/venugopalkadamba">
   <img align="center" alt="Venu Gopal Github Stats" src="https://github-readme-stats.vercel.app/api?username=venugopalkadamba&show_icons=true&theme=tokyonight">
 </a>
@@ -38,16 +38,19 @@
 
 <div align="center">
 
-### Top Languages
+## Top Languages
 <a href="https://github.com/venugopalkadamba">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venugopalkadamba&theme=tokyonight&layout=compact">
 </a>
  </div>
 
-### Follow Me At
+<div align="center">
+
+## Follow Me At
 <a href="https://linkedin.com/in/venugopalkadamba"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/venugopal_2001"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/KadambaVenu"><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>
+</div>
 
 <div align="center">
 
