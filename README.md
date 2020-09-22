@@ -28,15 +28,17 @@
 <img height="60" width="60" src="https://palanceli.com/2017/10/01/2017/1001opencvpy/img13.png" />&nbsp;&nbsp;&nbsp;
 <img height="60" width="60" src="https://camo.githubusercontent.com/8298328a921a558fc17a231edb75f35504ec6d30/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f3132303070782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" />&nbsp;&nbsp;&nbsp;
 
-### Github Stats
 <div align="center">
+
+### Github Stats
 <a href="https://github.com/venugopalkadamba">
   <img align="center" alt="Venu Gopal Github Stats" src="https://github-readme-stats.vercel.app/api?username=venugopalkadamba&show_icons=true&theme=tokyonight">
 </a>
 </div>
 
-### Top Languages
 <div align="center">
+
+### Top Languages
 <a href="https://github.com/venugopalkadamba">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venugopalkadamba&theme=tokyonight&layout=compact">
 </a>
