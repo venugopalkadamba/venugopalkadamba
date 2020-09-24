@@ -48,7 +48,7 @@
 <div align="center">
   
 ## My Repositories at Glance
-<table>
+<i><table>
   <tr>
     <th>Machine Learning</th>
     <th>Computer Vision</th>
@@ -83,7 +83,7 @@
       <a href="https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship">Data Science and Analytics Internship at The Sparks Foundation</a>
     </td>
   <tr>
-</table>
+</table></i>
 </div>
 
 
