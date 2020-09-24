@@ -55,15 +55,15 @@
   <tr>
     <td> 
       <ul>
-        <li><a href = "https://github.com/venugopalkadamba/Multi_Disease_Predictor"><i>Multi Disease Predictor</i></a></li>
-        <li><a href="https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App"><i>Diabetes Predictor</i></a></li>
+        <li><a target="_blank" href = "https://github.com/venugopalkadamba/Multi_Disease_Predictor"><i>Multi Disease Predictor</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App"><i>Diabetes Predictor</i></a></li>
       </ul> 
     </td>
     <td>
       <ul>
-        <li><a href="https://github.com/venugopalkadamba/Face_Verification_based_Attendance_system"><i>Face Verification based Attendance System</i></a></li>
-        <li><a href="https://github.com/venugopalkadamba/Social_Media_WebApp_with_FaceVerification_Login"><i>Social Media WebApp with Face Verification Login</i></a></li>
-        <li><a href="https://github.com/venugopalkadamba/Face_Mask_Detector"><i>Face Mask Detector</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Verification_based_Attendance_system"><i>Face Verification based Attendance System</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Social_Media_WebApp_with_FaceVerification_Login"><i>Social Media WebApp with Face Verification Login</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Mask_Detector"><i>Face Mask Detector</i></a></li>
       </ul>
     </td>
   </tr>
@@ -74,14 +74,14 @@
   <tr>
     <td>
       <ul>
-        <li><a href="https://github.com/venugopalkadamba/Text_Summarizer_NLP_Project"><i>Text Summarizer using Text Rank Algorithm</i></a> </li>
-        <li><a href="https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp"><i>SMS Spam Detection</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Text_Summarizer_NLP_Project"><i>Text Summarizer using Text Rank Algorithm</i></a> </li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp"><i>SMS Spam Detection</i></a></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>Data Science Internship at Technocolabs</i></a> </li>
-        <li><a href="https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship"><i>Data Science and Analytics Internship at The Sparks Foundation</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>Data Science Internship at Technocolabs</i></a> </li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship"><i>Data Science and Analytics Internship at The Sparks Foundation</i></a></li>
       </ul>
     </td>
   <tr>
