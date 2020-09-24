@@ -48,23 +48,23 @@
 <div align="center">
   
 ## My Repositories at Glance
-<i><table>
+<table>
   <tr>
     <th>Machine Learning</th>
     <th>Computer Vision</th>
   </tr>
   <tr>
     <td> 
-      <a href = "https://github.com/venugopalkadamba/Multi_Disease_Predictor">Multi Disease Predictor</a> 
+      <a href = "https://github.com/venugopalkadamba/Multi_Disease_Predictor"><i>Multi Disease Predictor</i></a> 
       <br> 
-      <a href="https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App">Diabetes Predictor</a>
+      <a href="https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App"><i>Diabetes Predictor</i></a>
     </td>
     <td>
-      <a href="https://github.com/venugopalkadamba/Face_Verification_based_Attendance_system">Face Verification based Attendance System</a>
+      <a href="https://github.com/venugopalkadamba/Face_Verification_based_Attendance_system"><i>Face Verification based Attendance System</i></a>
       <br> 
-      <a href="https://github.com/venugopalkadamba/Social_Media_WebApp_with_FaceVerification_Login">Social Media WebApp with Face Verification Login</a>
+      <a href="https://github.com/venugopalkadamba/Social_Media_WebApp_with_FaceVerification_Login"><i>Social Media WebApp with Face Verification Login</i></a>
       <br> 
-      <a href="https://github.com/venugopalkadamba/Face_Mask_Detector">Face Mask Detector</a>
+      <a href="https://github.com/venugopalkadamba/Face_Mask_Detector"><i>Face Mask Detector</i></a>
     </td>
   </tr>
   <tr>
@@ -73,17 +73,17 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/venugopalkadamba/Text_Summarizer_NLP_Project">Text Summarizer using Text Rank Algorithm</a> 
+      <a href="https://github.com/venugopalkadamba/Text_Summarizer_NLP_Project"><i>Text Summarizer using Text Rank Algorithm</i></a> 
       <br> 
-      <a href="https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp">SMS Spam Detection</a>
+      <a href="https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp"><i>SMS Spam Detection</i></a>
     </td>
     <td>
-      <a href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship">Data Science Internship at Technocolabs</a> 
+      <a href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>Data Science Internship at Technocolabs</i></a> 
       <br> 
-      <a href="https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship">Data Science and Analytics Internship at The Sparks Foundation</a>
+      <a href="https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship"><i>Data Science and Analytics Internship at The Sparks Foundation</i></a>
     </td>
   <tr>
-</table></i>
+</table>
 </div>
 
 
