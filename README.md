@@ -54,6 +54,27 @@
 </div>
 
 <div align="center">
+  
+## My Repositories at Glance
+
+<table>
+  <tr>
+    <th>Machine Learning</th>
+    <th>Computer Vision</th>
+  </tr>
+  <tr>
+    <td> [Multi Disease Predictor](https://github.com/venugopalkadamba/Multi_Disease_Predictor) <br> [Diabetes Predictor](https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App)</td>
+    <td>https://github.com/venugopalkadamba/Face_Verification_based_Attendance_system <br> https://github.com/venugopalkadamba/Social_Media_WebApp_with_FaceVerification_Login <br> https://github.com/venugopalkadamba/Face_Mask_Detector</td>
+  </tr>
+  <tr>
+    <th>NLP</th>
+    <th>Internships</th>
+  </tr>
+  <tr>
+    <td>https://github.com/venugopalkadamba/Text_Summarizer_NLP_Project <br> https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp</td>
+    <td>https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship <br> https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship</td>
+  <tr>
+</table>
 
 #### Show some ❤️ by starring some of the repositories!
 
