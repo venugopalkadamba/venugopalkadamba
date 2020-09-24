@@ -52,30 +52,52 @@
 <a href="https://twitter.com/KadambaVenu"><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto: venugopalkadamba@gmail.com"><img height="32" width="32" src="https://lh3.ggpht.com/8-N_qLXgV-eNDQINqTR-Pzu5Y8DuH0Xjz53zoWq_IcBNpcxDL_gK4uS_MvXH00yN6nd4=s180-rw" /></a>
 </div>
+  
 
 <div align="center">
   
 ## My Repositories at Glance
-
 <table>
   <tr>
     <th>Machine Learning</th>
     <th>Computer Vision</th>
   </tr>
   <tr>
-    <td> [Multi Disease Predictor](https://github.com/venugopalkadamba/Multi_Disease_Predictor) <br> [Diabetes Predictor](https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App)</td>
-    <td>https://github.com/venugopalkadamba/Face_Verification_based_Attendance_system <br> https://github.com/venugopalkadamba/Social_Media_WebApp_with_FaceVerification_Login <br> https://github.com/venugopalkadamba/Face_Mask_Detector</td>
+    <td> 
+      <a href = "https://github.com/venugopalkadamba/Multi_Disease_Predictor">Multi Disease Predictor</a> 
+      <br> 
+      <a href="https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App">Diabetes Predictor</a>
+    </td>
+    <td>
+      <a href="https://github.com/venugopalkadamba/Face_Verification_based_Attendance_system">Face Verification based Attendance System</a>
+      <br> 
+      <a href="https://github.com/venugopalkadamba/Social_Media_WebApp_with_FaceVerification_Login">Social Media WebApp with Face Verification Login</a>
+      <br> 
+      <a href="https://github.com/venugopalkadamba/Face_Mask_Detector">Face Mask Detector</a>
+    </td>
   </tr>
   <tr>
     <th>NLP</th>
     <th>Internships</th>
   </tr>
   <tr>
-    <td>https://github.com/venugopalkadamba/Text_Summarizer_NLP_Project <br> https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp</td>
-    <td>https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship <br> https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship</td>
+    <td>
+      <a href="https://github.com/venugopalkadamba/Text_Summarizer_NLP_Project">Text Summarizer using Text Rank Algorithm</a> 
+      <br> 
+      <a href="https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp">SMS Spam Detection</a>
+    </td>
+    <td>
+      <a href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship">Data Science Internship at Technocolabs</a> 
+      <br> 
+      <a href="https://github.com/venugopalkadamba/The-Sparks-Foundation-Internship">Data Science and Analytics Internship at The Sparks Foundation</a>
+    </td>
   <tr>
 </table>
+</div>
 
+
+<div align="center">
+  
 #### Show some ❤️ by starring some of the repositories!
 
 </div>
