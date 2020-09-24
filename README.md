@@ -1,6 +1,5 @@
 ## Hi there, I am Venu Gopal!<img height="60" width="60" src="https://media1.tenor.com/images/3ca4190df184f2329bb9f0bd06ea0cc2/tenor.gif?itemid=10604183" />
 <i>I am a self taught <b>Python Programmer</b>.</i>
-<br>
 <i>
   
 <img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
