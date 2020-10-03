@@ -63,6 +63,7 @@
     <td>
       <ul>
         <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Verification_based_Attendance_system"><i>Face Verification based Attendance System</i></a></li>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Emotion_Recognition"><i>Face Emotion Recogniton</i></a></li?
         <li><a target="_blank" href="https://github.com/venugopalkadamba/Technocolabs-Data-Science-Internship"><i>American Sign Language Detection</i></a></li>
         <li><a target="_blank" href="https://github.com/venugopalkadamba/Social_Media_WebApp_with_FaceVerification_Login"><i>Social Media WebApp with Face Verification Login</i></a></li>
         <li><a target="_blank" href="https://github.com/venugopalkadamba/Face_Mask_Detector"><i>Face Mask Detector</i></a></li>
