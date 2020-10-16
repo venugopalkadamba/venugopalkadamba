@@ -103,8 +103,11 @@
 
 </div>
 
-
+<div align="center">
+  
 <marquee><b>❤️ Thank you for visiting my Github Profile ❤️</b></marquee>
+</div>
+
 
 <div align="center">
   
