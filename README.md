@@ -5,7 +5,7 @@
 <img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
 <br>
 <ul>
-        <li>🔭 Data Science Intern at Technocolabs.</li>
+        <li>🔭 Machine Learning and Deep Learning Enthusiast.</li>
         <li>💼 Currently persuing my third year of Bachelor's Degree in Computer Science Engineering at GMR Institute of Technology.</li>
         <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, NLP.</li>
         <li>💬 Ask me about anything.</li>
