@@ -103,6 +103,8 @@
 
 </div>
 
+<marquee><b>❤️ Thank you for visiting my Github Profile ❤️</b></marquee>
+
 <div align="center">
   
 #### Show some ❤️ by starring some of the repositories!
