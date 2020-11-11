@@ -7,7 +7,7 @@
 <ul>
         <li>🔭 Machine Learning and Deep Learning Enthusiast.</li>
         <li>💼 Currently persuing my third year of Bachelor's Degree in Computer Science Engineering at GMR Institute of Technology.</li>
-        <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, NLP.</li>
+        <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/venugopalkadamba">LinkedIn</a>.</li>
         <li>⚡ Fun fact: I am fitness freak.</li>
