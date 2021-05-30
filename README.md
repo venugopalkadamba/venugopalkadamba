@@ -51,6 +51,7 @@
   <tr>
     <td> 
       <ul>
+        <li><a target="_blank" href = "https://github.com/venugopalkadamba/AgriAI_WebApp"><i>AgriAI WebApp</i></a></li>
         <li><a target="_blank" href = "https://github.com/venugopalkadamba/Multi_Disease_Predictor"><i>Multi Disease Predictor</i></a></li> 
         <li><a target="_blank" href = "https://github.com/venugopalkadamba/Image-Blur-Detection"><i>Image Blur Detection using Machine Learning</i></a></li>
         <li><a target="_blank" href="https://github.com/venugopalkadamba/Diabetes_Predictor-AND-Web_App"><i>Diabetes Predictor</i></a></li>
