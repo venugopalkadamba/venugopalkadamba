@@ -74,6 +74,7 @@
   <tr>
     <td>
       <ul>
+        <li><a target="_blank" href="https://github.com/venugopalkadamba/Movie-Recommendation-System-ML-React-Flask"><i>Movie Recommendation System</i></a></li>
         <li><a target="_blank" href="https://github.com/venugopalkadamba/Text_Summarizer_NLP_Project"><i>Text Summarizer using Text Rank Algorithm</i></a> </li>
         <li><a target="_blank" href="https://github.com/venugopalkadamba/SMS-Spam-Detector-WebApp"><i>SMS Spam Detection</i></a></li>
         <li><a target="_blank" href="https://github.com/venugopalkadamba/Fake_News_Detector"><i>Fake News Detector</i></a></li>
