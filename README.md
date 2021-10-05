@@ -96,7 +96,7 @@
 <div align="center">
 
 ## Follow Me At
-<a href="https://linkedin.com/in/venugopalkadamba"><img height="32" width="32" src="https://www.becker.edu/wp-content/uploads/2020/04/LinkedIn-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/venugopalkadamba"><img height="32" width="32" src="https://media-exp1.licdn.com/dms/image/C4E0EAQGJU-WmJqwsFA/rightRail-logo-shrink_200_200/0/1631000107204?e=1633514400&v=beta&t=bHqHV21-Qn7jasEE3gdNnIAZzOfRPRg1tNmKlAIh1QM" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/venugopal_2001"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/KadambaVenu"><img height="32" width="32" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
