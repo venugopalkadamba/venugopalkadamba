@@ -14,8 +14,6 @@
       </ul>
 </i>
 
-<hr/>
-
 <div align="center">
 
 ## Github Stats
