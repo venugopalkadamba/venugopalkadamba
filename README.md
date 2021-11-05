@@ -13,6 +13,7 @@
         <li>⚡ Fun fact: I am fitness freak.</li>
       </ul>
 </i>
+<br/>
 
 <div align="center">
 
