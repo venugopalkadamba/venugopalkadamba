@@ -2,7 +2,7 @@
 <i>I am a self taught <b>Python Programmer</b>.</i>
 <i>
   
-<img align="right" height="300" width="350" src="./assets/typing.gif" />
+<img align="right" height="250" width="350" src="./assets/typing.gif" />
 <br>
 <ul>
         <li>🔭 Machine Learning and Deep Learning Enthusiast.</li>
