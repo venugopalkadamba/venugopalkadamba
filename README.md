@@ -5,8 +5,8 @@
 <img align="right" height="250" width="350" src="./assets/typing_man.gif" />
 <br>
 <ul>
-        <li>🔭 Machine Learning and Deep Learning Enthusiast.</li>
-        <li>💼 Currently persuing my third year of Bachelor's Degree in Computer Science Engineering at GMR Institute of Technology.</li>
+        <li>🔭 Data Scientist Intern at Argoid Analytics</li>
+        <li>💼 Currently persuing my final year of Bachelor's Degree in Computer Science Engineering at GMR Institute of Technology.</li>
         <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/venugopalkadamba">LinkedIn</a>.</li>
