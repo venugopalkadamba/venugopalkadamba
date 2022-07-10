@@ -5,7 +5,7 @@
 <img align="right" height="250" width="350" src="./assets/typing_man.gif" />
 <br>
 <ul>
-<!--         <li>🔭 Data Scientist Intern at Argoid Analytics</li> -->
+        <li>🔭 Data Scientist 1 at Crowe LLP</li>
         <li>💼 Open for Freelance work in data science field.</li>
         <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
         <li>💬 Ask me about anything.</li>
