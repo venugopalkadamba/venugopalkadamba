@@ -1,5 +1,5 @@
 ## Hi there, I am Venu Gopal!<img height="60" width="60" src="./assets/hi.gif" />
-<i>I am a self taught <b>Python Programmer</b>.</i>
+
 <i>
   
 <img align="right" height="250" width="350" src="./assets/typing_man.gif" />
