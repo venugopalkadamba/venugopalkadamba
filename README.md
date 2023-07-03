@@ -2,7 +2,7 @@
 
 <i>
   
-<img align="right" height="250" width="350" src="./assets/typing_man.gif" />
+
 <br>
 <ul>
         <li>🔭 Data Scientist 1 at Karza Technologies</li>
