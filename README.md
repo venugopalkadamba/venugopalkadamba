@@ -15,6 +15,8 @@
 </i>
 <br/>
 
+<i>
+
 <div align="center">
 
 ## Github Stats
