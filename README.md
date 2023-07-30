@@ -5,12 +5,12 @@
 
 <br>
 <ul>
-        <li>🔭 Data Scientist 1 at Karza Technologies</li>
-        <li>💼 Open for Freelance work in data science field.</li>
+        <li>🔭 Data Scientist at Perfios Software Solutions</li>
+        <li>💼 Open for Freelance work in the data science field.</li>
         <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/venugopalkadamba">LinkedIn</a>.</li>
-        <li>⚡ Fun fact: I am fitness freak.</li>
+        <li>⚡ Fun fact: I am a fitness freak.</li>
       </ul>
 </i>
 <br/>
