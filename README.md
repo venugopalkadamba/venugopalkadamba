@@ -5,8 +5,8 @@
 
 <br>
 <ul>
-        <li>🔭 Data Scientist at Perfios Software Solutions</li>
-        <li>💼 Open for Freelance work in the data science field.</li>
+        <li>🔭 MS in Data Science @ New York University</li>
+<!--         <li>💼 Open for Freelance work in the data science field.</li> -->
         <li>🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.</li>
         <li>💬 Ask me about anything.</li>
         <li>📫 You can reach me via <a target="_blank" href="https://linkedin.com/in/venugopalkadamba">LinkedIn</a>.</li>
